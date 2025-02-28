@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://siso-57308-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1094703378113</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAPEW3PgRF_aKChL5LAqDMiTx8qRYlIC8</string>
+    <string name="google_app_id" translatable="false">1:1094703378113:android:d63e05567ce0f0f3b56e40</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAPEW3PgRF_aKChL5LAqDMiTx8qRYlIC8</string>
+    <string name="google_storage_bucket" translatable="false">siso-57308.appspot.com</string>
+    <string name="project_id" translatable="false">siso-57308</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/maincolor" /> <!-- 메인 컬러로 채우기 -->
+    <corners android:radius="16dp" /> <!-- 모서리 둥글게 설정 -->
+    <stroke
+        android:width="2dp"
+    android:color="@android:color/black" />
+</shape>

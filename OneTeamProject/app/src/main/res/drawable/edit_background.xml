@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 포커스 상태 -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <stroke android:width="2dp" android:color="@color/maincolor" /> <!-- 포커스일 때 테두리 설정 -->
+            <solid android:color="@android:color/white" /> <!-- 포커스일 때 배경색 설정 -->
+        </shape>
+    </item>
+    <!-- 그 외의 상태 (기본 상태) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <stroke android:width="2dp" android:color="@color/maincolor" /> <!-- 기본 상태일 때 테두리 설정 -->
+            <solid android:color="@android:color/white" /> <!-- 기본 상태일 때 배경색 설정 -->
+        </shape>
+    </item>
+</selector>

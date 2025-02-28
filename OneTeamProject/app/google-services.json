@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1094703378113",
+    "firebase_url": "https://siso-57308-default-rtdb.firebaseio.com",
+    "project_id": "siso-57308",
+    "storage_bucket": "siso-57308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094703378113:android:d63e05567ce0f0f3b56e40",
+        "android_client_info": {
+          "package_name": "com.lx.oneteamproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPEW3PgRF_aKChL5LAqDMiTx8qRYlIC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/backgroundcolor"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/top_logo_border"
+        >
+
+        <ImageView
+            android:id="@+id/emergencyPlaceBackButton"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="7dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/lefticon" />
+
+        <TextView
+
+            android:layout_marginRight="43dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:shadowColor="#33000000"
+            android:shadowDx="1.0"
+            android:shadowDy="1.0"
+            android:shadowRadius="1.0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="안전기관 연락처"
+            android:fontFamily="@font/gmarketsansbold"
+            android:textSize="24dp"
+            android:textStyle="bold"
+
+            >
+        </TextView>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/maincolor" />
+
+    <LinearLayout
+        android:layout_marginTop="125dp"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            >
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="9"
+            android:background="@drawable/login_rounded_background"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_marginTop="-7dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/policeButton"
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="경찰서"
+                        android:fontFamily="@font/gmarketsansbold"
+
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView8"
+                        android:layout_marginLeft="-87dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/policeman"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:id="@+id/settingsNameEditButton101"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="소방서"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView1"
+                        android:layout_marginLeft="-87dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/firefighter"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_marginTop="33dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                >
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+
+                        android:textStyle="bold"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:id="@+id/settingsNameEditButton57"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="교통부"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView9"
+                        android:layout_marginLeft="-87dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/transportation"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+
+                        android:id="@+id/settingsNameEditButton145"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="보건부"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView10"
+                        android:layout_marginLeft="-87dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/syringe"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="33dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                >
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+
+                        android:id="@+id/settingsNameEditButton87"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:text="환경부"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView11"
+                        android:layout_marginLeft="-87dp"
+
+                        />
+
+                    <ImageView
+                        android:layout_marginTop="5dp"
+                        android:id="@+id/imageView11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="90dp"
+                        android:layout_marginRight="5dp"
+                        android:src="@drawable/earth" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+
+                        android:id="@+id/settingsNameEditButton90"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:text="생활안전부"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView13"
+                        android:layout_marginLeft="-106dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/shield"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="33dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                >
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+
+                        android:id="@+id/settingsNameEditButton98"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:text="여성청소년부"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView14"
+                        android:layout_marginLeft="-114dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/student"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="47dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/emergency_place_number_button">
+
+
+
+                    <TextView
+                        android:textStyle="bold"
+
+                        android:id="@+id/settingsNameEditButton10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="재해 관리부"
+                        android:fontFamily="@font/gmarketsansbold"
+                        android:textSize="15dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/imageView"
+                        android:layout_marginLeft="-110dp"
+
+                        />
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/rescue"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="90dp"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            >
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+

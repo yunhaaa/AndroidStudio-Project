@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_report.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_report.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/number_connection_popup.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/number_connection_popup.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_report_free.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_report_free.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/manual_main.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/manual_main.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_risk_information_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_risk_information_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_safety_facility_information_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_safety_facility_information_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_my_report_list.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_my_report_list.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_report_check_popup.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_report_check_popup.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_sub.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_sub.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_details.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_details.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/report_details_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/report_details_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_action_article_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_action_article_pager_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_start.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_my_page.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_my_page.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_publicad_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_publicad_pager_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_report_form_image_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_report_form_image_pager_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_social_disater_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_social_disater_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_emergency_place_number.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_emergency_place_number.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_my_report_details.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_my_report_details.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_signup.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_situation_map_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_situation_map_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_statitics_map_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_statitics_map_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_report_free_image_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_report_free_image_pager_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_main_report_form.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_main_report_form.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/my_report_list_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/my_report_list_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/near_natural_disater_fragment.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/near_natural_disater_fragment.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/main_drawable_header.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/main_drawable_header.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_report_check_image_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_report_check_image_pager_item.xml"
+    },
+    {
+        "merged": "com.lx.oneteamproject.app-mergeDebugResources-38:/layout/fragment_my_report_details_photo_pager_item.xml",
+        "source": "com.lx.oneteamproject.app-main-41:/layout/fragment_my_report_details_photo_pager_item.xml"
+    }
+]

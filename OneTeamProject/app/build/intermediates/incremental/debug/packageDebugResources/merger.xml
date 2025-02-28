@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res"><file name="ball" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\anim\ball.xml" qualifiers="" type="anim"/><file name="fadein" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\anim\fadein.xml" qualifiers="" type="anim"/><file name="start" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\anim\start.xml" qualifiers="" type="anim"/><file name="all" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\all.png" qualifiers="" type="drawable"/><file name="article1" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\article1.png" qualifiers="" type="drawable"/><file name="article2" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\article2.png" qualifiers="" type="drawable"/><file name="bookmark" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\bookmark.png" qualifiers="" type="drawable"/><file name="btn_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\btn_background.xml" qualifiers="" type="drawable"/><file name="chat" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\chat.png" qualifiers="" type="drawable"/><file name="chattingicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\chattingicon.png" qualifiers="" type="drawable"/><file name="conversation" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\conversation.png" qualifiers="" type="drawable"/><file name="drawerhome" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\drawerhome.png" qualifiers="" type="drawable"/><file name="drawer_swtich" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\drawer_swtich.xml" qualifiers="" type="drawable"/><file name="earth" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\earth.png" qualifiers="" type="drawable"/><file name="editicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\editicon.png" qualifiers="" type="drawable"/><file name="edit_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\edit_background.xml" qualifiers="" type="drawable"/><file name="email" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\email.png" qualifiers="" type="drawable"/><file name="emergencecall" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\emergencecall.png" qualifiers="" type="drawable"/><file name="emergencyicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\emergencyicon.png" qualifiers="" type="drawable"/><file name="emergency_place_number_button" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\emergency_place_number_button.xml" qualifiers="" type="drawable"/><file name="file" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\file.png" qualifiers="" type="drawable"/><file name="fire" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\fire.png" qualifiers="" type="drawable"/><file name="firefighter" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\firefighter.png" qualifiers="" type="drawable"/><file name="home" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\home.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="imagepulsicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\imagepulsicon.png" qualifiers="" type="drawable"/><file name="information" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\information.png" qualifiers="" type="drawable"/><file name="lefticon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\lefticon.png" qualifiers="" type="drawable"/><file name="letterboxicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\letterboxicon.png" qualifiers="" type="drawable"/><file name="login_rounded_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\login_rounded_background.xml" qualifiers="" type="drawable"/><file name="login_shadow" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\login_shadow.xml" qualifiers="" type="drawable"/><file name="logout_button_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\logout_button_background.xml" qualifiers="" type="drawable"/><file name="mainchat" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainchat.png" qualifiers="" type="drawable"/><file name="maindrawerhome" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\maindrawerhome.png" qualifiers="" type="drawable"/><file name="mainemergencecall" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainemergencecall.png" qualifiers="" type="drawable"/><file name="mainmainuser" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainmainuser.png" qualifiers="" type="drawable"/><file name="mainnoticefiedbell" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainnoticefiedbell.png" qualifiers="" type="drawable"/><file name="mainquestion" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainquestion.png" qualifiers="" type="drawable"/><file name="mainuser" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mainuser.png" qualifiers="" type="drawable"/><file name="main_button_rounded_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\main_button_rounded_background.xml" qualifiers="" type="drawable"/><file name="main_rounded_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\main_rounded_background.xml" qualifiers="" type="drawable"/><file name="main_statistics_button_rounded_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\main_statistics_button_rounded_background.xml" qualifiers="" type="drawable"/><file name="manual" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\manual.png" qualifiers="" type="drawable"/><file name="mapicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mapicon.png" qualifiers="" type="drawable"/><file name="mypage_rounded" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\mypage_rounded.xml" qualifiers="" type="drawable"/><file name="natural" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\natural.png" qualifiers="" type="drawable"/><file name="near_situation_map_fragment_cardview_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\near_situation_map_fragment_cardview_background.xml" qualifiers="" type="drawable"/><file name="near_situation_map_weather" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\near_situation_map_weather.xml" qualifiers="" type="drawable"/><file name="near_statitics_map_fragment_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\near_statitics_map_fragment_background.xml" qualifiers="" type="drawable"/><file name="near_statitics_map_fragment_button_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\near_statitics_map_fragment_button_background.xml" qualifiers="" type="drawable"/><file name="noticefiedbell" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\noticefiedbell.png" qualifiers="" type="drawable"/><file name="noticeicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\noticeicon.png" qualifiers="" type="drawable"/><file name="password" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\password.png" qualifiers="" type="drawable"/><file name="phone" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\phone.png" qualifiers="" type="drawable"/><file name="phone12" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\phone12.png" qualifiers="" type="drawable"/><file name="phonecall" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\phonecall.png" qualifiers="" type="drawable"/><file name="policeman" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\policeman.png" qualifiers="" type="drawable"/><file name="publicad1" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\publicad1.png" qualifiers="" type="drawable"/><file name="publicad2" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\publicad2.jpg" qualifiers="" type="drawable"/><file name="publicad3" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\publicad3.jpg" qualifiers="" type="drawable"/><file name="publicad4" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\publicad4.jpg" qualifiers="" type="drawable"/><file name="relative" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\relative.png" qualifiers="" type="drawable"/><file name="report_border" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_border.xml" qualifiers="" type="drawable"/><file name="report_check_popup_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_check_popup_background.xml" qualifiers="" type="drawable"/><file name="report_check_popup_space_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_check_popup_space_background.xml" qualifiers="" type="drawable"/><file name="report_form_space_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_form_space_background.xml" qualifiers="" type="drawable"/><file name="report_free_space_background" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_free_space_background.xml" qualifiers="" type="drawable"/><file name="report_sample" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_sample.jpg" qualifiers="" type="drawable"/><file name="report_select_button" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_select_button.xml" qualifiers="" type="drawable"/><file name="report_unselect_button" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\report_unselect_button.xml" qualifiers="" type="drawable"/><file name="rescue" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\rescue.png" qualifiers="" type="drawable"/><file name="righticon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\righticon.png" qualifiers="" type="drawable"/><file name="risk" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\risk.png" qualifiers="" type="drawable"/><file name="rounded_background_my_report_list2" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\rounded_background_my_report_list2.xml" qualifiers="" type="drawable"/><file name="round_background_main" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\round_background_main.xml" qualifiers="" type="drawable"/><file name="safety" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\safety.png" qualifiers="" type="drawable"/><file name="safety_rounded" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\safety_rounded.xml" qualifiers="" type="drawable"/><file name="sample_report2" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\sample_report2.jpg" qualifiers="" type="drawable"/><file name="sample_report3" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\sample_report3.jpg" qualifiers="" type="drawable"/><file name="settingsicon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\settingsicon.png" qualifiers="" type="drawable"/><file name="shield" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\shield.png" qualifiers="" type="drawable"/><file name="signup_border" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\signup_border.xml" qualifiers="" type="drawable"/><file name="social" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\social.png" qualifiers="" type="drawable"/><file name="socialcase" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\socialcase.jpg" qualifiers="" type="drawable"/><file name="student" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\student.png" qualifiers="" type="drawable"/><file name="sun" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\sun.png" qualifiers="" type="drawable"/><file name="syringe" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\syringe.png" qualifiers="" type="drawable"/><file name="telephone" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\telephone.png" qualifiers="" type="drawable"/><file name="top_logo_border" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\top_logo_border.xml" qualifiers="" type="drawable"/><file name="transportation" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\transportation.png" qualifiers="" type="drawable"/><file name="user" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\user.png" qualifiers="" type="drawable"/><file name="user1" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\user1.png" qualifiers="" type="drawable"/><file name="user2" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\user2.png" qualifiers="" type="drawable"/><file name="weather_blur1" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_blur1.png" qualifiers="" type="drawable"/><file name="weather_cloudy" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_cloudy.png" qualifiers="" type="drawable"/><file name="weather_moon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_moon.png" qualifiers="" type="drawable"/><file name="weather_moon_cloudy" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_moon_cloudy.png" qualifiers="" type="drawable"/><file name="weather_night_hail" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_night_hail.png" qualifiers="" type="drawable"/><file name="weather_night_rain" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_night_rain.png" qualifiers="" type="drawable"/><file name="weather_night_shower" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_night_shower.png" qualifiers="" type="drawable"/><file name="weather_night_snow" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_night_snow.png" qualifiers="" type="drawable"/><file name="weather_question" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_question.png" qualifiers="" type="drawable"/><file name="weather_raining_sun_icon" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_raining_sun_icon.png" qualifiers="" type="drawable"/><file name="weather_sun" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun.png" qualifiers="" type="drawable"/><file name="weather_sun_cloudy" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun_cloudy.png" qualifiers="" type="drawable"/><file name="weather_sun_hail" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun_hail.png" qualifiers="" type="drawable"/><file name="weather_sun_rain" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun_rain.png" qualifiers="" type="drawable"/><file name="weather_sun_shower" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun_shower.png" qualifiers="" type="drawable"/><file name="weather_sun_snow" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\drawable\weather_sun_snow.png" qualifiers="" type="drawable"/><file name="gmarketsansbold" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\font\gmarketsansbold.ttf" qualifiers="" type="font"/><file name="gmarketsanslight" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\font\gmarketsanslight.ttf" qualifiers="" type="font"/><file name="gmarketsansmedium" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\font\gmarketsansmedium.ttf" qualifiers="" type="font"/><file name="activity_emergency_place_number" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_emergency_place_number.xml" qualifiers="" type="layout"/><file name="activity_login" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_my_page" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_my_page.xml" qualifiers="" type="layout"/><file name="activity_signup" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_signup.xml" qualifiers="" type="layout"/><file name="activity_start" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_start.xml" qualifiers="" type="layout"/><file name="activity_sub" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\activity_sub.xml" qualifiers="" type="layout"/><file name="fragment_main" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main.xml" qualifiers="" type="layout"/><file name="fragment_main_action_article_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_action_article_pager_item.xml" qualifiers="" type="layout"/><file name="fragment_main_details" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_details.xml" qualifiers="" type="layout"/><file name="fragment_main_publicad_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_publicad_pager_item.xml" qualifiers="" type="layout"/><file name="fragment_main_report" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_report.xml" qualifiers="" type="layout"/><file name="fragment_main_report_form" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_report_form.xml" qualifiers="" type="layout"/><file name="fragment_main_report_free" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_main_report_free.xml" qualifiers="" type="layout"/><file name="fragment_my_report_details" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_my_report_details.xml" qualifiers="" type="layout"/><file name="fragment_my_report_details_photo_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_my_report_details_photo_pager_item.xml" qualifiers="" type="layout"/><file name="fragment_my_report_list" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_my_report_list.xml" qualifiers="" type="layout"/><file name="fragment_report_check_image_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_report_check_image_pager_item.xml" qualifiers="" type="layout"/><file name="fragment_report_check_popup" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_report_check_popup.xml" qualifiers="" type="layout"/><file name="fragment_report_form_image_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_report_form_image_pager_item.xml" qualifiers="" type="layout"/><file name="fragment_report_free_image_pager_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\fragment_report_free_image_pager_item.xml" qualifiers="" type="layout"/><file name="main_drawable_header" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\main_drawable_header.xml" qualifiers="" type="layout"/><file name="manual_main" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\manual_main.xml" qualifiers="" type="layout"/><file name="my_report_list_item" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\my_report_list_item.xml" qualifiers="" type="layout"/><file name="near_natural_disater_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_natural_disater_fragment.xml" qualifiers="" type="layout"/><file name="near_risk_information_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_risk_information_fragment.xml" qualifiers="" type="layout"/><file name="near_safety_facility_information_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_safety_facility_information_fragment.xml" qualifiers="" type="layout"/><file name="near_situation_map_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_situation_map_fragment.xml" qualifiers="" type="layout"/><file name="near_social_disater_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_social_disater_fragment.xml" qualifiers="" type="layout"/><file name="near_statitics_map_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\near_statitics_map_fragment.xml" qualifiers="" type="layout"/><file name="number_connection_popup" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\number_connection_popup.xml" qualifiers="" type="layout"/><file name="report_details_fragment" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\layout\report_details_fragment.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\values\colors.xml" qualifiers=""><color name="maincolor">#3F4759</color><color name="backgroundcolor">#EBEBEB</color><color name="btncolor">#9BA2AA</color><color name="white">#FFFFFF</color><color name="border">#9299A0</color><color name="pointcolor">#F08C58</color><color name="green">#4CAF50</color><color name="green_dark">#008000</color><color name="black">#000000</color></file><file path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\values\strings.xml" qualifiers=""><string name="terms_and_conditions">
+        <![CDATA[
+               본 이용약관(이하 "약관")은 시민의소리 사이트
+            (이하 "시소")가 제공하는모든 서비스(이하
+            "서비스")의 이용조건 및 절차, 이용자와 안전신문
+           고의 권리, 의무 및 책임사항과 기타 필요한 사항을
+            규정함을 목적으로 합니다.
+        ]]>
+    </string><string name="hello">
+        <![CDATA[
+        시민의소리 사이트는 귀하가 본 약관 내용에 동의
+        하는 경우, 시민의소리 사이트의 서비스 제공 행위
+        및 귀하의 서비스 사용 행위에 본 약관이 우선적으
+        로 적용됩니다.\n
+        시민의소리는 이 약관의 내용과 주소지, 관리자의
+        성명, 개인정보보호 담당자의 성명,연락처(전화,
+        팩스, 전자우편 주소 등) 등을 이용자가알 수 있
+        도록 시민의소리의 초기 서비스화면에 게시합니다.\n
+        시민의소리는 약관을 개정할 경우
+        에는 적용일 자 및 개정사유를 명시하여 현행약관
+        과 함께 시민의소리의 초기화면에 그 적용일자 7일
+        이전부터적용일자 전일까지 공지하거나 e-mail을
+        통해 회원에게 공지하며, 공지와 동시에 적용 일에
+        그 효력이발생합니다.\n
+        변경된 약관의 부지로 인한
+        회원의 피해는 시민의소리에서 책임지지 않습니다.\n
+        이용자는 변경된 약관에 동의하지 않을 경우 회원
+        등록을 취소(회원탈퇴)(해지) 할수 있으며, 변경
+        된 약관의 효력발생일로부터 7일 이내에 거부의사
+        를 표시하지 아니하고 서비스를 계속 사용할 경우
+        변경된 약관에 동의한 것으로 간주합니다.
+        ]]>
+    </string><string name="hello1">
+
+  <![CDATA[
+     본 약관에 명시되지 않은 사항은 약관의 규제에
+     관한법률, 전기통신기본법, 전기통신사업법,정보
+     통신윤리위원회심의규정, 정보통신 윤리강령,프로
+     그램보호법 및 기타 관련 법령의 규정에 의하며,
+     관계법령을 위배하지 않는 범위에서 이 약관을 개
+     정할 수 있습니다. ]]>
+</string><string name="hello2">
+   <![CDATA[
+      본 약관에서 사용하는 용어의 정의는 다음과 같습
+      니다. \n
+      이용자 : 본 약관에 따라 시민의소리가 제공하는
+      서비스를 받는 자를 말합니다.\n
+      가입 : 시민의소리가 제공하는 신청서 양식에 해당
+      정보를 기입하고, 본 약관에 동의하여 서비스 이용
+      계약을 완료시키는 행위를 말합니다.\n
+      회원 : 시민의소리에 개인정보를 제공하여 회원 등
+      록을 한 자로서 시민의소리가 제공하는 서비스를
+      이용할 수 있는 자를 말합니다.\n
+      이용자번호(ID) : 이용자의 식별과 이용자의 서비
+      스 이용을 위하여 이용자가 선정하고 시민의소리가
+      부여하는 문자와 숫자의 조합을 말합니다.\n
+      비밀번호 : 이용자와 회원ID가 일치하는지를 확인
+      하고통신상의 자신의 개인정보보호를 위하여 이용
+      자 자신이 선정한 문자와 숫자의 조합을 말합니다.\n
+      회원탈퇴 : 시민의소리 또는 회원이 이용계약을 종
+      료시키는 행위를 말합니다.본 약관에서 사용하는
+      용어의정의는 제1항에서 정하는 것을 제외하고는
+      관계법령,개별서비스에 대한 별도약관 및 이용규정
+      에서 정의합니다.
+        ]]>
+    </string><string name="hello3">
+        <![CDATA[
+
+이용자가 제공하는 정보의 내용이 허위인 것으로
+판명되거나, 허위가 있다고 의심할 만한 합리적인
+사유가 발생할 경우 시민의소리는 이용자의 본 서
+비스 사용을 일부 또는 전부 이용 정지할 수 있으
+며, 이로 인해 발생하는 불이익에 대해 책임을 부
+담하지 아니합니다.\n
+시민의소리는 이용자가 본 약관 제17조(이용자의
+의무)등 본 약관의 내용에 위배되는 행동을 한 경
+우, 임의로 서비스 이용을 제한 및 정지할 수 있
+습니다.\n
+이 경우 시민의소리는 이용자의 접속을 금지할 수
+있습니다. \n
+단, 시민의소리가 이용자의 이용권한을 상실시키기
+위해서는 사전통지를 해야 하고 회원이 이를 시정
+하거나 소명할 수 있는 기회를 부여해야 합니다.
+회원의 자격을 정지 또는 상실시키고자 하는 경우
+에는 5일 이상의 기간을 주어 의견제출(소명)의
+기회를주어야 합니다.\n
+이 기간 동안 당해 회원에 대하여 회원으로서의 활
+동을 정지시킬 수 있습니다.\n
+제 1항의 의견 제출에 대한 통지는 회원가입 시,등
+록한 전자우편주소에 의하고 다수의 회원과 관련된
+사항 또는 모든 회원에게 알릴 필요가 있다고 판단
+되는사항에 대하여는 게시판에 게시하여야 합니다.
+시민의소리는 자격 상실한 회원이 로그인 시, 첫
+화면에 위반내용에 따른 구체적인 사항을 알리고
+그에따른 시정 또는 소명할 수 있는 의견 제출 화
+면을 제공합니다.\n
+의견 제출에 대한 통지서에는 구체적인 위반내용과
+그 근거 및 위반에 따른 제재의구체적인 내용을 포
+함 하여야 합니다.
+        ]]>
+
+    </string><string name="hello4">
+        <![CDATA[
+이용자가 게시한 게시물의 저작권은 이용자가 소
+유하며, 시민의소리는 서비스 내에 이를 게시할
+수 있는 권리를 갖습니다.\n
+시민의소리는 다음 각 호에 해당하는 게시물이나
+자료를 사전통지 없이 삭제하거나 이동 또는 등록
+거부를 할 수 있습니다.\n
+본서비스 약관에 위배되거나 상용 또는 불법, 음란
+, 저속하다고 판단되는 게시물을 게시한 경우 다른
+회원 또는 제 3자에게 심한 모욕을 주거나 명예를
+손상시키는 내용인 경우 공공질서 및 미풍양속에
+위반되는 내용을 유포하거나 링크시키는 경우 불법
+복제 또는 해킹을 조장하는 내용인 경우 영리를 목
+적으로 하는 광고일 경우 범죄와 결부된다고 객관
+적으로 인정되는 내용일 경우 다른 이용자 또는 제
+3자의 저작권 등 기타 권리를 침해하는 내용인 경
+우 안전신문고에서 규정한 게시물 원칙에 어긋나거
+나, 게시판 성격에 부합하지 않는 경우 기타 관계
+법령에 위배된다고 판단되는 경우 이용자의 게시물
+이 타인의 저작권을 침해함으로써 발생하는 민,
+상의 책임은전적으로 이용자가 부담하여야 합니다.
+        ]]>
+
+    </string><string name="hello5">
+        <![CDATA[
+이용자가 게시한 게시물의 저작권은 게시한 이용
+자에게 귀속됩니다.\n
+또한 시민의소리는 게시자의동의 없이 게시물을
+상업적으로 이용할 수 없습니다.\n
+다만 비영리 목적인 경우는 그러하지 아니하며,
+또한 서비스내의 게재권을 갖습니다.\n
+이용자는서비스를 이용하여 취득한 정보를 임의
+가공, 판매하는 행위등 서비스에 게재된 자료를
+상업적으로 사용할수 없습니다. 시민의소리는
+회원이 게시하거나 등록하는 서비스 내의 내용
+물,게시 내용에 대해 제13조 각 호에 해당된다
+고 판단되는 경우 사전통지 없이 삭제하거나 이
+동 또는 등록 거부할 수 있습니다.
+        ]]>
+
+    </string><string name="hello6">
+        <![CDATA[
+본 이용약관(이하 "약관")은 시민의소리 사이트
+시민의소리는 서비스를 운영함에 있어서 각종 정
+보를 홈페이지에 게재하는 방법, 전자우편이나 서
+신우편 발송 등으로 회원에게 제공할 수 있습니다.\n
+시민의소리는 서비스에 적절하다고 판단되거나 공\
+익성이 있는 홍보물을 게재할 수 있습니다.
+        ]]>
+
+    </string><string name="app_name">
+        시민의 소리
+    </string><string name="hello_blank_fragment">Hello blank fragment</string></file><file path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.OneTeamProject" parent="Theme.AppCompat.Light">
+        
+        
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style><style name="Theme.OneTeamProject" parent="Base.Theme.OneTeamProject"/><style name="FullScreenDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/FullScreenDialogAnimation</item>
+    </style><style name="FullScreenDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style><style name="MyDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/DialogAnimation</item>
+    </style><style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style></file><file path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.OneTeamProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style><style name="FullScreenDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/FullScreenDialogAnimation</item>
+    </style><style name="FullScreenDialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style></file><file name="backup_rules" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\build\generated\res\resValues\debug"/><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\build\generated\res\processDebugGoogleServices"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\build\generated\res\resValues\debug"/><source path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\build\generated\res\processDebugGoogleServices"><file path="C:\Users\LX\AAAA\newOneTeamProject\OneTeamProject\app\build\generated\res\processDebugGoogleServices\values\values.xml" qualifiers=""><string name="firebase_database_url" translatable="false">https://siso-57308-default-rtdb.firebaseio.com</string><string name="gcm_defaultSenderId" translatable="false">1094703378113</string><string name="google_api_key" translatable="false">AIzaSyBAPEW3PgRF_aKChL5LAqDMiTx8qRYlIC8</string><string name="google_app_id" translatable="false">1:1094703378113:android:d63e05567ce0f0f3b56e40</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAPEW3PgRF_aKChL5LAqDMiTx8qRYlIC8</string><string name="google_storage_bucket" translatable="false">siso-57308.appspot.com</string><string name="project_id" translatable="false">siso-57308</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices" generated-set="res-processDebugGoogleServices$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

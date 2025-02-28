@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/mainArticleImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/article1" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/gmarketsansbold"
+            android:text="1. 겨울철에는 항상 기상상황에 주목하며 주변 사람들과 함께 정보를 공유합니다."
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="- TV, 라디오, 인터넷 등을 통해 한파와 관련한 기상상황을 수시로 확인합니다."
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/gmarketsansbold"
+            android:text="2. 저체온증 등 한랭질환의 증상과 가까운 병원 연락처 등을"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/gmarketsansbold"
+            android:text="가족이나 이웃과 함께 사전에 파악하고 어떻게 조치해야하는지를 알아둡니다."
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="- 집에서 가까운 병원 연락처를 알아두고, 본인과 가족의 저체온증 등 증상을 확인합니다."
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="- 어린이, 노약자, 심뇌혈관질환자 등 취약계층은 추위에 약하므로"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="건강관리에 더욱 유의해야 합니다."
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="- 추위로 인한 질병(저체온증, 동상, 참호족, 침수족, 동창 등)에 대한"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/gmarketsansmedium"
+            android:text="증상과 대처방법을 사전에 알아둡니다."
+            android:textSize="10sp" />
+        />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

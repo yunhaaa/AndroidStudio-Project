@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <LinearLayout
+        android:id="@+id/customDialog"
+        android:layout_width="309dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/login_rounded_background"
+        android:elevation="5dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        >
+
+
+        <LinearLayout
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="경찰서"
+                android:fontFamily="@font/gmarketsansbold"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:textColor="#000000"
+                ></TextView>
+
+            <View
+                android:layout_width="30dp"
+                android:layout_height="30dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="전화연결"
+                android:fontFamily="@font/gmarketsansbold"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+
+                ></TextView>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/emergencyButton"
+            android:layout_marginTop="10dp"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_rounded_background"
+            android:backgroundTint="#FF0000"
+            android:text="112"
+            android:fontFamily="@font/gmarketsansbold"
+            android:textSize="30dp"
+            android:textColor="#ffffff"
+            android:drawableRight="@drawable/phone12"
+
+            >
+
+        </Button>
+
+    </LinearLayout>
+
+</LinearLayout>

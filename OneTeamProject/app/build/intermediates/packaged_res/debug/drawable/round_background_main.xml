@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#90E2E2E2"/> <!-- 회색과 투명도 조절 -->
+    <corners android:radius="10dp"/> <!-- 라운드 모서리를 조절 -->
+</shape>
